@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kokopice.aternos.me:52748",
+    "ip": "Kokopice.aternos.me",
     "port": 52748
 ,
     "version": "1.26.2"
